@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "data": [{
+      "id": 3627484,
+      "slug": "c5580cc1c3f4",
+      "nickname": "简书大学堂",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png",
+      "total_likes_count": 16625,
+      "total_wordage": 813121,
+      "is_following_user": false
+    }, {
+      "id": 1835526,
+      "slug": "55b597320c4e",
+      "nickname": "简书版权",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/1835526/9bc600ce-7672-42b8-b03b-1a779593dd45.jpg",
+      "total_likes_count": 35620,
+      "total_wordage": 405460,
+      "is_following_user": false
+    }, {
+      "id": 13213889,
+      "slug": "080bb4eac1c9",
+      "nickname": "无限猴子",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg",
+      "total_likes_count": 40,
+      "total_wordage": 20097,
+      "is_following_user": false
+    }, {
+      "id": 6467455,
+      "slug": "83b1ab6d703e",
+      "nickname": "楠溪陈酿",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg",
+      "total_likes_count": 262,
+      "total_wordage": 353418,
+      "is_following_user": false
+    }, {
+      "id": 5796592,
+      "slug": "86b81ed8e35c",
+      "nickname": "乔汉童",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/5796592/73837104-47e5-4fe9-a5be-054bd50b06f7.jpg",
+      "total_likes_count": 1156,
+      "total_wordage": 468967,
+      "is_following_user": false
+    }],
+    "total_count": 2788
+  }
