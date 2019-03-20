@@ -19,3 +19,11 @@
 * `axios`：基于promise 的 HTTP 库
 * `iconfont`：阿里巴巴矢量图标库
 * `react-loadable`：懒加载
+
+![image](https://github.com/gty1998/img-storge/blob/master/Jietu20190320-140513%402x.jpg)
+
+![image](https://github.com/gty1998/img-storge/blob/master/Jietu20190320-140541%402x.jpg)
+
+![image](https://github.com/gty1998/img-storge/blob/master/1.gif)
+
+![image](https://github.com/gty1998/img-storge/blob/master/2.gif)
