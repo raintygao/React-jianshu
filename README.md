@@ -20,6 +20,9 @@
 * `iconfont`：阿里巴巴矢量图标库
 * `react-loadable`：懒加载
 
+## 注意
+效果展示图片加载可能比较慢，请耐心等待，感谢。
+
 ![image](https://github.com/gty1998/img-storge/blob/master/Jietu20190320-140513%402x.jpg)
 
 ![image](https://github.com/gty1998/img-storge/blob/master/Jietu20190320-140541%402x.jpg)
